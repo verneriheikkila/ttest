@@ -50,4 +50,19 @@ qemu-img convert -O qcow2 -c Metasploitable.vmdk MetasploitableUTM.qcow2
 - Metasploitable-koneella on vain "Host-only" sisäinen verkko.
 
 ## d.)
--
+- Testaa yhteys
+```bash
+ping (metasploitip)
+```
+- Start Metasploit 
+```bash
+sudo msfdb run
+```
+- Luo Worspace harjoitusta varten
+```bash
+workspace -a metasploitable-h1
+```
+- Porttiskannaa kohde
+```bash
+db_nmap -sn (metasploit ip)
+```
