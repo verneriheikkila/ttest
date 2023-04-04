@@ -70,3 +70,7 @@ db_nmap -sn (metasploit ip)
 ## e.)
 ```bash
 db_nmap -A (ip)
+```
+
+## f.)
+![kuva1](kuvat/h1/kuva1.png)
