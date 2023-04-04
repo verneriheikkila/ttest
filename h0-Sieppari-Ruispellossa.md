@@ -14,7 +14,7 @@ Wireshark on työkalu, joka tarjoaa runsaasti tietoja verkkoliikenteestä, kuten
 
 ![kuva2](kuvat/h0/2.png)
 
-Esimerkiksi, kun avasin Google.com -sivun, Wireshark tallensi verkkoliikenteestä kaiken tärkeän tiedon. Voit käyttää Wiresharkia liikenteen tarkastelemiseen ja suodattamiseen. Tämä tehdään kirjoittamalla "Apply a display filter" -kenttään haluttu suodatin. Esimerkiksi, DNS-suodattimella pystyin tarkastelemaan vain DNS-liikennettä ja selvittämään palvelimen osoitteen nimen.
+Esimerkiksi, kun avasin Google.com -sivun, Wireshark tallensi verkkoliikenteestä kaiken tärkeän tiedon. Wiresharkia voi siis käyttää liikenteen tarkastelemiseen ja suodattamiseen. Tämä tapahtuu kirjoittamalla "Apply a display filter" -kenttään haluttu suodatin. Esimerkiksi, DNS-suodattimella pystyin tarkastelemaan vain DNS-liikennettä ja selvittämään palvelimen osoitteen nimen.
 
 ![kuva3](kuvat/h0/3.png)
 
