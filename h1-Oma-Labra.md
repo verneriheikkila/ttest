@@ -28,12 +28,10 @@ brew install qemu
 ```
 - Lataa Metasploitable 2 image:
 https://sourceforge.net/projects/metasploitable/
-- Pura ladattu zip-paketti:
+- Pura ladattu zip-paketti ja muunna Metasploitable.vmdk UTM:n tukemaan qcow2-muotoon:
 ```bash
 unzip metasploitable-linux-2.0.0.zip
-```
-- Muunna Metasploitable.vmdk UTM:n tukemaan qcow2-muotoon:
-```bash
+cd Metasploitable2-Linux
 qemu-img convert -O qcow2 -c Metasploitable.vmdk MetasploitableUTM.qcow2
 ```
 
