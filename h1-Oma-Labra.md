@@ -66,3 +66,7 @@ workspace -a metasploitable-h1
 ```bash
 db_nmap -sn (metasploit ip)
 ```
+
+## e.)
+```bash
+db_nmap -A (ip)
