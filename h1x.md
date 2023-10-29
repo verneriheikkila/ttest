@@ -114,7 +114,5 @@ Tulos ei juurikaan muuttunut. Kone sanoo edelleen, että kaikki portit ovat sulj
 
 Komento ei Kalilla tunnistanut järjestelmää, joten siirryin kokeilemaan Debianilla jolla sai komennolla hieman enemmän asiaa irti. -A lippu tekee paljon. Se aktivoi neljä muuta lippua -sV, -T4, -O ja -script=default.
 
-- -sV pyrkii tunnistamaan käynnissä olevia palveluita ja niiden versioita.
-- -T4 Pyrkii suorittamaan skannauksen agressiivisemmin eli nopeammin.
-- -O Ajaa nmapin scriptejä vakiomuodossa jolla se pyrkii saamaan lisätietoa käynnissä olevista palveluista.
+- -sV pyrkii tunnistamaangit sta palveluista.
   Minun tapauksessani se sai selville portin 631 jokaa on auki internet yhteyden muodostamista varten.Se sai myös selville, että järjestelmäni pyöroo linux kernelillä, ditribuutioota tai sen versiota se ei saanut selville.
