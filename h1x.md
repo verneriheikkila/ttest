@@ -112,7 +112,11 @@ Tulos ei juurikaan muuttunut. Kone sanoo edelleen, että kaikki portit ovat sulj
 
 ## g.)
 
-Komento ei Kalilla tunnistanut järjestelmää, joten siirryin kokeilemaan Debianilla jolla sai komennolla hieman enemmän asiaa irti. -A lippu tekee paljon. Se aktivoi neljä muuta lippua -sV, -T4, -O ja -script=default.
+Komento ei Kalilla tunnistanut järjestelmää, joten siirryin kokeilemaan Debianilla jolla sai komennolla hieman enemmän asiaa irti. -A lippu tekee paljon. Se aktivoi neljä muuta lippua -sV -T4, -O ja -script=default.
 
-- -sV pyrkii tunnistamaangit sta palveluista.
-  Minun tapauksessani se sai selville portin 631 jokaa on auki internet yhteyden muodostamista varten.Se sai myös selville, että järjestelmäni pyöroo linux kernelillä, ditribuutioota tai sen versiota se ei saanut selville.
+- -Sv Pyrkii tunnistamaan käynnissä olevia palveluita ja niiden versioita.
+- -T4 Lippu yrittää ajaa haun agressiivisemmin, eli nopeammin.
+- -O Pyrkii keräämään tietoa kohteen käyttöjärjestelmästä ja sen käynnissä olevista palveluista.
+- -script=default Ajaa nmpain skriptitiedostota oletus asetuksilla ja keräämään tietoa kohteen palveluista.
+
+Minun tapauksessani se sai selville portin 631 jokaa onauki internet yhteyden muodostamista varten.Se sai myös selville, että järjestelmäni pyöroo linux kernelillä, ditribuutioota tai sen versiota se ei saanut selville.
