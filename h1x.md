@@ -58,9 +58,11 @@ Koska välilyönnit toimivat usein komentorivillä argumenttien erotinmerkkeinä
 
 Ennen laboratorion avaamista on tehtävänanto, jossa periaatteessa kerrotaan miten tehtävä tulee tehdä.
 Avaan laboratorion ja tutkin sivuja. Huomaan,että tuotekategoriat näkyvät mudossa:
+
 ```
 /filter?category=Gifts
 ```
+
 voimme siis injektoida SQL injektion:
 
 ```
@@ -81,3 +83,38 @@ En ole aivan varma miksi injektio aloitetaan merkillä ', mutta loppuosa on melk
 
 Latasin ditribuutiot kunkin omalta nettisivulta.
 Mounttasin levykuvan VirtualBoxiin ja käynnistin koneen, joka boottasi levykuvasta ja kävin läpi asennuksen ilman ongelmia.
+
+## e.)
+
+Latasin nmapin
+
+```
+sudo apt-get nmap
+```
+
+Tarkistin ulospäin näkyvän IP osoitteen.
+
+```
+hostname -I
+```
+
+Scannasin 1000 yleisintä porttia
+
+```
+sudo nmap
+```
+
+Ilman lisämääreitä nmap skannaa vain 1000 yleisintä porttia joista kaikki 1000 olivat huomioiimattomassa tilassa.
+
+## f.)
+
+Tulos ei juurikaan muuttunut. Kone sanoo edelleen, että kaikki portit ovat suljettuja. Edelleen ihmettelen miltä portilta yhteys internettiin tulee ja kohtaa "1 IP Adress 1 Host up".
+
+## g.)
+
+Komento ei Kalilla tunnistanut järjestelmää, joten siirryin kokeilemaan Debianilla jolla sai komennolla hieman enemmän asiaa irti. -A lippu tekee paljon. Se aktivoi neljä muuta lippua -sV, -T4, -O ja -script=default.
+
+- -sV pyrkii tunnistamaan käynnissä olevia palveluita ja niiden versioita.
+- -T4 Pyrkii suorittamaan skannauksen agressiivisemmin eli nopeammin.
+- -O Ajaa nmapin scriptejä vakiomuodossa jolla se pyrkii saamaan lisätietoa käynnissä olevista palveluista.
+  Minun tapauksessani se sai selville portin 631 jokaa on auki internet yhteyden muodostamista varten.Se sai myös selville, että järjestelmäni pyöroo linux kernelillä, ditribuutioota tai sen versiota se ei saanut selville.
