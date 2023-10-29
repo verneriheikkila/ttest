@@ -92,17 +92,13 @@ Latasin nmapin
 sudo apt-get nmap
 ```
 
-Tarkistin ulospäin näkyvän IP osoitteen.
-
-```
-hostname -I
-```
-
 Scannasin 1000 yleisintä porttia
 
 ```
 sudo nmap
 ```
+
+![e1](/kuvat/h1/e/1.png)
 
 Ilman lisämääreitä nmap skannaa vain 1000 yleisintä porttia joista kaikki 1000 olivat huomioiimattomassa tilassa.
 
@@ -110,7 +106,11 @@ Ilman lisämääreitä nmap skannaa vain 1000 yleisintä porttia joista kaikki 1
 
 Tulos ei juurikaan muuttunut. Kone sanoo edelleen, että kaikki portit ovat suljettuja. Edelleen ihmettelen miltä portilta yhteys internettiin tulee ja kohtaa "1 IP Adress 1 Host up".
 
+![f1](/kuvat/h1/f/1.png)
+
 ## g.)
+
+![g1](/kuvat/h1/g/1.png)
 
 Komento ei Kalilla tunnistanut järjestelmää, joten siirryin kokeilemaan Debianilla jolla sai komennolla hieman enemmän asiaa irti. -A lippu tekee paljon. Se aktivoi neljä muuta lippua -sV -T4, -O ja -script=default.
 
@@ -120,3 +120,17 @@ Komento ei Kalilla tunnistanut järjestelmää, joten siirryin kokeilemaan Debia
 - -script=default Ajaa nmpain skriptitiedostota oletus asetuksilla ja keräämään tietoa kohteen palveluista.
 
 Minun tapauksessani se sai selville portin 631 jokaa onauki internet yhteyden muodostamista varten.Se sai myös selville, että järjestelmäni pyöroo linux kernelillä, ditribuutioota tai sen versiota se ei saanut selville.
+
+## h.)
+
+![h1](/kuvat/h1/h/1.png)
+
+Scannaus tunnisti asennetun palvelimen ja sen avulla myös linux ditribuution jolla sitä ajetaan(aiemmin ei tunnistanut). Eli pystyi palvelimen perusteella päättelemään muutakin tietoa koneestani.
+
+## g.)
+
+En täysin ymmärtänyt tehtävää.
+https://www.bellingcat.com/category/resources/
+sisälsi nopealla katsauksella lähinnä artikkeleita eikä työkaluja.
+https://inteltechniques.com/tools/index.html
+sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten - osoitetiedot, puhelinnumerot, yms... olivat jenkkilä mallia. koitin ajaa omaa sähköpostiani ja käskin työkalua ajamaan kaikilla hakukoneilla, mutta eteeni ilmestyi vaim google haku omalla söhköpostilla. Ei tuntunut varsinaisesti kovin hyödylliseltä. Toki tuo populate all toiminto nopeuttaa hieman jos niitä siitä listasta alkaa yksitellen painelemaan läpi, mutta ei mielestäni mitenkään kovin erityisesti.
