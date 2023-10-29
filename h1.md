@@ -146,3 +146,4 @@ sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten
 - https://inteltechniques.com/tools/index.html
 - https://www.kali.org/docs/installation/hard-disk-install
 - https://terokarvinen.com/2021/- install-debian-on-virtualbox/#boot-to-desktop---choose-to-live
+- nmap man sivu
