@@ -145,5 +145,5 @@ sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten
 - https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 - https://inteltechniques.com/tools/index.html
 - https://www.kali.org/docs/installation/hard-disk-install
-- https://terokarvinen.com/2021/- install-debian-on-virtualbox/#boot-to-desktop---choose-to-live
+- https://terokarvinen.com/2021/install-debian-on-virtualbox/
 - nmap man sivu
