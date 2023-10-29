@@ -137,12 +137,12 @@ sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten
 
 ## Lähteet
 
-https://chat.openai.com/
-https://bard.google.com/chat/
-https://learning.oreilly.com/videos/the-art-of/9780135767849/9780135767849-SPTT_04_04/
-https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
-https://portswigger.net/web-security/sql-injection
-https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
-https://inteltechniques.com/tools/index.html
-https://www.kali.org/docs/installation/hard-disk-install
-https://terokarvinen.com/2021/install-debian-on-virtualbox/#boot-to-desktop---choose-to-live
+- https://chat.openai.com/
+- https://bard.google.com/chat/
+- https://learning.oreilly.com/videos/the-art-of/9780135767849/9780135767849-SPTT_04_03/
+- https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+- https://portswigger.net/web-security/sql-injection
+- https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
+- https://inteltechniques.com/tools/index.html
+- https://www.kali.org/docs/installation/hard-disk-install
+- https://terokarvinen.com/2021/- install-debian-on-virtualbox/#boot-to-desktop---choose-to-live
