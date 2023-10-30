@@ -134,13 +134,13 @@ Minun tapauksessani se sai selville portin 631 jokaa onauki internet yhteyden mu
 
 Scannaus tunnisti asennetun palvelimen ja sen avulla myös linux ditribuution jolla sitä ajetaan(aiemmin ei tunnistanut). Eli pystyi palvelimen perusteella päättelemään muutakin tietoa koneestani.
 
-## g.)
+## i.)
 
 En täysin ymmärtänyt tehtävää.
 https://www.bellingcat.com/category/resources/
 sisälsi nopealla katsauksella lähinnä artikkeleita eikä työkaluja.
 https://inteltechniques.com/tools/index.html
-sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten - osoitetiedot, puhelinnumerot, yms... olivat jenkkilä mallia. koitin ajaa omaa sähköpostiani ja käskin työkalua ajamaan kaikilla hakukoneilla, mutta eteeni ilmestyi vaim google haku omalla söhköpostilla. Ei tuntunut varsinaisesti kovin hyödylliseltä. Toki tuo populate all toiminto nopeuttaa hieman jos niitä siitä listasta alkaa yksitellen painelemaan läpi, mutta ei mielestäni mitenkään kovin erityisesti.
+sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten - osoitetiedot, puhelinnumerot, yms... olivat jenkkilä mallia. koitin ajaa omaa sähköpostiani ja käskin työkalua ajamaan kaikilla hakukoneilla, mutta eteeni ilmestyi vaim google haku omalla söhköpostilla. Ei tuntunut varsinaisesti kovin hyödylliseltä. Toki tuo populate all toiminto nopeuttaa, jos niitä siitä listasta alkaa yksitellen painelemaan.
 
 ## Lähteet
 
@@ -152,4 +152,5 @@ sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten
 - https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 - https://inteltechniques.com/tools/index.html
 - https://www.kali.org/docs/installation/hard-disk-install
-- https://terokarvinen.com/2021/- install-debian-on-virtualbox/#boot-to-desktop---choose-to-live
+- https://terokarvinen.com/2021/install-debian-on-virtualbox/
+- nmap man sivu
