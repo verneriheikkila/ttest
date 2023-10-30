@@ -56,10 +56,10 @@ Koska välilyönnit toimivat usein komentorivillä argumenttien erotinmerkkeinä
 
 ## b.)
 
-![b1](/kuvat/h1/d/a.png)
-![b2](/kuvat/h1/d/b.png)
-![b3](/kuvat/h1/d/c.png)
-![b4](/kuvat/h1/d/d.png)
+![b1](/kuvat/h1/b/a.png)
+![b2](/kuvat/h1/b/b.png)
+![b3](/kuvat/h1/b/c.png)
+![b4](/kuvat/h1/b/d.png)
 
 ## c.)
 
