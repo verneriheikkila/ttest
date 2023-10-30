@@ -127,7 +127,7 @@ Minun tapauksessani se sai selville portin 631 jokaa onauki internet yhteyden mu
 
 Scannaus tunnisti asennetun palvelimen ja sen avulla myös linux ditribuution jolla sitä ajetaan(aiemmin ei tunnistanut). Eli pystyi palvelimen perusteella päättelemään muutakin tietoa koneestani.
 
-## g.)
+## i.)
 
 En täysin ymmärtänyt tehtävää.
 https://www.bellingcat.com/category/resources/
