@@ -133,7 +133,7 @@ En täysin ymmärtänyt tehtävää.
 https://www.bellingcat.com/category/resources/
 sisälsi nopealla katsauksella lähinnä artikkeleita eikä työkaluja.
 https://inteltechniques.com/tools/index.html
-sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten - osoitetiedot, puhelinnumerot, yms... olivat jenkkilä mallia. koitin ajaa omaa sähköpostiani ja käskin työkalua ajamaan kaikilla hakukoneilla, mutta eteeni ilmestyi vaim google haku omalla söhköpostilla. Ei tuntunut varsinaisesti kovin hyödylliseltä. Toki tuo populate all toiminto nopeuttaa hieman jos niitä siitä listasta alkaa yksitellen painelemaan läpi, mutta ei mielestäni mitenkään kovin erityisesti.
+sen sijaan sisälsi työkaluja joista monet oli tehty täysin jenkkilää varten - osoitetiedot, puhelinnumerot, yms... olivat jenkkilä mallia. koitin ajaa omaa sähköpostiani ja käskin työkalua ajamaan kaikilla hakukoneilla, mutta eteeni ilmestyi vaim google haku omalla söhköpostilla. Ei tuntunut varsinaisesti kovin hyödylliseltä. Toki tuo populate all toiminto nopeuttaa, jos niitä siitä listasta alkaa yksitellen painelemaan.
 
 ## Lähteet
 
