@@ -136,7 +136,6 @@ Scannaus tunnisti asennetun palvelimen ja sen avulla myös linux ditribuution jo
 
 ## i.)
 
-En täysin ymmärtänyt tehtävää.
 https://www.bellingcat.com/category/resources/
 sisälsi nopealla katsauksella lähinnä artikkeleita eikä työkaluja.
 https://inteltechniques.com/tools/index.html
