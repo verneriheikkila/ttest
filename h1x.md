@@ -54,6 +54,13 @@ Kirjaudun sisään tunnuksella bandit2 ja saamallani salasanalla ja pääsen kir
 Tutkin hakemiston taas ls komennolla ja löydän tiedoston jonka nimi koostuu useasta sanasta.
 Koska välilyönnit toimivat usein komentorivillä argumenttien erotinmerkkeinä ei cat komennolla pysty suoraan lukemaan tiedostoa. Tiedostonimen voi esimerkiksi kääriä lainausmerkkeihin, jolloin cat tunnistaa sen yhtenäiseksi tiedostonimeksi. Salasana paljastuu.
 
+## b.)
+
+![b1](/kuvat/h1/d/a.png)
+![b2](/kuvat/h1/d/b.png)
+![b3](/kuvat/h1/d/c.png)
+![b4](/kuvat/h1/d/d.png)
+
 ## c.)
 
 Ennen laboratorion avaamista on tehtävänanto, jossa periaatteessa kerrotaan miten tehtävä tulee tehdä.
